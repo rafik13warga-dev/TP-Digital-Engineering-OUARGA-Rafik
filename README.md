@@ -5,7 +5,7 @@
 * **Nom et Prénom :** OUARGA Rafik
 * **Établissement :** ENSA Khouribga
 * **Filière :** 1re année du cycle d'ingénieur (IID)
-* **Rôle dans le binôme (Exercice 2) :** Étudiant A (Propriétaire du dépôt) / Étudiant B (Collaborateur invité)
+* **Rôle dans le binôme (Exercice 2) :** ILyass Siboub (Propriétaire du dépôt) / Rafik Ouarga (Collaborateur invité)
 
 ## Liens des dépôts et de la Pull Request
 * **Dépôt Exercice 1 (calcul-c) :** https://github.com/rafik13warga-dev/calcul-c
